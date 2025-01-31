@@ -1,0 +1,22 @@
+# Virtual environment files
+venv/
+.venv/
+
+# Confidential data
+*.env
+
+# Cash Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# MacOS system files
+.DS_Store
+
+# Database files
+articles.db
+
+# Directory-based project format:
+.idea/
